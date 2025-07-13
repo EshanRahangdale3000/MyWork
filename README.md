@@ -35,7 +35,11 @@ Each entry includes:
 ---
 
 ## 📁 Project Structure
+
 │
+
 ├── index.html # Main HTML file with trailers, info tables, and layout
+
 ├── movie.css # External CSS for page styling and layout
+
 ├── script.js # JavaScript for booking buttons and back-to-top behavior
